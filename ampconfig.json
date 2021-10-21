@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.10.0",
+  "appInfo": {
+    "name": "Freedom To Know",
+    "description": "Des connaissances indispensables pour le développement d'un être humain",
+    "version": "ir6eo8xi",
+    "id": "ckv11kbei1485051bs6q1eazdl7",
+    "url": "https://app.amplication.com/ckv11kbei1485051bs6q1eazdl7",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "freedomtoknow-amplification",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckv11kbei1485051bs6q1eazdl7",
+      "authProvider": "Jwt"
+    }
+  }
+}
